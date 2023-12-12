@@ -1,0 +1,12 @@
+base_url = "https://tvt.moe"
+build_search_index = false
+compile_sass = true
+description = "Just another abandoned site."
+theme = "no-style-please"
+title = "Kumiko as a Service"
+
+[markdown]
+highlight_code = true
+
+[extra]
+logo = "logo.png"

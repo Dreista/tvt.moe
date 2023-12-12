@@ -22,7 +22,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build
-        uses: shalzz/zola-deploy-action@v0.17.1
+        uses: shalzz/zola-deploy-action@v0.17.2
         env:
           BUILD_ONLY: true
       - name: Upload artifact
